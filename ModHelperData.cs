@@ -12,6 +12,6 @@ public static class ModHelperData
         "The Options allow you to tweak which sources are allowed and how much they are multiplied<br>" +
         "";
 
-    public const string RepoOwner = "TheBroskiAlex"; 
+    public const string RepoOwner = "thebroskialex"; 
     public const string RepoName = "MultiCash";
 }
